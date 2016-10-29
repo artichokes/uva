@@ -65,6 +65,7 @@ int main() {
     letters.insert(input[0] - 'A');
 
     while (getline(cin, input) && !input.empty()) {
+      graph.add_node(input[0] - 'A');
       graph.add_edge(input[0] - 'A', input[1] - 'A');
       letters.insert(input[0] - 'A');
       letters.insert(input[1] - 'A');
@@ -81,7 +82,9 @@ int main() {
       ++subgraphs;
     }
 
-    cout << subgraphs << endl << endl;
+    cout << subgraphs << endl;
+    if (i != cases - 1)
+      cout << endl;
   }
 
   return 0;
