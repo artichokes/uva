@@ -1,3 +1,8 @@
+/*
+ * Peter Nguyen
+ * UVa Online Judge Problem 10004
+ */
+
 #include <iostream>
 #include <climits>
 

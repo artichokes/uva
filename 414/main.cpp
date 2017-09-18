@@ -1,3 +1,8 @@
+/*
+ * Peter Nguyen
+ * UVa Online Judge Problem 414
+ */
+
 #include <iostream>
 
 using namespace std;

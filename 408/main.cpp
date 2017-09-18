@@ -1,3 +1,8 @@
+/*
+ * Peter Nguyen
+ * UVa Online Judge Problem 408
+ */
+
 #include <iostream>
 #include <iomanip>
 

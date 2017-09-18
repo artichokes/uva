@@ -1,3 +1,8 @@
+/*
+ * Peter Nguyen
+ * UVa Online Judge Problem 11492
+ */
+
 #include <iostream>
 #include <tuple>
 #include <map>

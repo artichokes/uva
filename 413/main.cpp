@@ -1,3 +1,8 @@
+/*
+ * Peter Nguyen
+ * UVa Online Judge Problem 413
+ */
+
 #include <iostream>
 #include <vector>
 #include <numeric>
