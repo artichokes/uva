@@ -3,6 +3,7 @@ project(uva)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
+add_subdirectory(300)
 add_subdirectory(413)
 add_subdirectory(414)
 add_subdirectory(408)
